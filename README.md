@@ -34,7 +34,7 @@ We know that is not true given the information on the premise, hence the relatio
 
 ## Models
 ### [XLM-RoBERTa](https://huggingface.co/joeddav/xlm-roberta-large-xnli)
-> This model takes xlm-roberta-large and fine-tunes it on a combination of NLI data in 15 languages. It is intended to be used for zero-shot text classification, such as with the Hugging Face ZeroShotClassificationPipeline.
+> This model takes xlm-roberta-large and fine-tunes it on a combination of NLI data in 15 languages. It is intended to be used for zero-shot text classification, such as with the Hugging Face ZeroShotClassificationPipeline. <br/>
 [Notebook](https://github.com/youngzyx/Multilingual-Contradiction-Detection/blob/main/xlm_Roberta.ipynb)
 
 * Valid Loss: 0.064
