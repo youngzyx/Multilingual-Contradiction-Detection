@@ -1,6 +1,8 @@
 # Multilingual-Contradiction-Detection
 #### Team: [Yoli Wu](https://github.com/hereisyoli), [Young Zeng](https://github.com/youngzyx/)
 
+[The slides](https://github.com/youngzyx/Multilingual-Contradiction-Detection/blob/main/my_dear_watson.pdf)
+
 ## Goal
 Classifying pairs of sentences (consisting of a premise and a hypothesis) into three categories - entailment, contradiction, or neutral.  
 
