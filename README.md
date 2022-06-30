@@ -68,6 +68,7 @@ From the loss and accuracy plots below, we can observe that LSTM is doing bad on
 
 
 ## Reference
+* https://www.kaggle.com/code/k170040024/contradictory-my-dear-watson-pytorch-xlmr
 #### Tips
 **NLI** (Natural language inference) model is a model that attempts to infer the correct label based on the two sentences.
   
