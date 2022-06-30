@@ -55,6 +55,8 @@ We know that is not true given the information on the premise, hence the relatio
 * Valid Loss: 1.099
 * Valid Accuracy: 0.024
  
+From the loss and accuracy plots below, we can observe that LSTM is doing bad on this problem.
+<img src = 'img/lstmloss.png' width = '400' ><img src = 'img/lstmacc.png' width = '400' >
 ## Result
 
 
