@@ -40,8 +40,6 @@ We know that is not true given the information on the premise, hence the relatio
  
 * Valid Loss: 0.823
 * Valid Accuracy: 0.637
-* Scores<br/>
-
 
 
 ### [XLM-RoBERTa](https://huggingface.co/joeddav/xlm-roberta-large-xnli)
