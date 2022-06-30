@@ -33,6 +33,11 @@ We know that is not true given the information on the premise, hence the relatio
 
 
 ## Models
+### BERT
+ `bert-base-multilingual-cased`
+
+
+
 ### [XLM-RoBERTa](https://huggingface.co/joeddav/xlm-roberta-large-xnli)
 > This model takes xlm-roberta-large and fine-tunes it on a combination of NLI data in 15 languages. It is intended to be used for zero-shot text classification, such as with the Hugging Face ZeroShotClassificationPipeline. <br/>
 [Notebook](https://github.com/youngzyx/Multilingual-Contradiction-Detection/blob/main/xlm_Roberta.ipynb)
@@ -62,6 +67,7 @@ From the loss and accuracy plots below, we can observe that LSTM is doing bad on
 
 |Model|Valid_Loss|Valid_Accuracy| 
 |:----|:--------:|---------:|
+|BERT|
 |XLM-RoBERTa|0.064|0.896|
 |LSTM|1.099|0.024|
 
