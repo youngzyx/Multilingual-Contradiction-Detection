@@ -35,7 +35,26 @@ We know that is not true given the information on the premise, hence the relatio
 ## Models
 ### [XLM-RoBERTa](https://huggingface.co/joeddav/xlm-roberta-large-xnli)
 > This model takes xlm-roberta-large and fine-tunes it on a combination of NLI data in 15 languages. It is intended to be used for zero-shot text classification, such as with the Hugging Face ZeroShotClassificationPipeline.
+[Notebook](https://github.com/youngzyx/Multilingual-Contradiction-Detection/blob/main/xlm_Roberta.ipynb)
 
+* Valid Loss: 0.064
+* Valid Accuracy: 0.896
+* Scores<br/>
+
+
+|Label|Precision|Recall|F-score|Support|
+|:----|:-------:|:-----:|:-----:|-----:|
+|0|0.904|0.306|.0905|822|
+|1|0.874|0.858|0.866|769|
+|2|0.908|0.921|0.914|833|
+
+
+### LSTM
+[Notebook](https://github.com/youngzyx/Multilingual-Contradiction-Detection/blob/main/lstm_final.ipynb)
+
+* Valid Loss: 1.099
+* Valid Accuracy: 0.024
+ 
 ## Result
 
 ## Reference
