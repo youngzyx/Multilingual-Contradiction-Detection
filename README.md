@@ -9,6 +9,9 @@ Classifying pairs of sentences (consisting of a premise and a hypothesis) into t
   * Arabic, Bulgarian, Chinese, German, Greek, English, Spanish, French, Hindi, Russian, Swahili, Thai, Turkish, Urdu, and Vietnamese.
 * Train: 12120(2.77 MB) (include premise, hypothesis, language, label)
 * Test: 5195(1.18 MB)
+<br/>
+<img src = 'img/language.png' width = '800' >
+
 
 Link: https://www.kaggle.com/competitions/contradictory-my-dear-watson/data 
 
