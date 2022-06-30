@@ -68,7 +68,7 @@ From the loss and accuracy plots below, we can observe that LSTM is doing bad on
 
 |Model|Valid_Loss|Valid_Accuracy| 
 |:----|:--------:|---------:|
-|BERT|
+|BERT|0.823|0.637|
 |XLM-RoBERTa|0.064|0.896|
 |LSTM|1.099|0.024|
 
