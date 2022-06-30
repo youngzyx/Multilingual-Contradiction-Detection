@@ -56,8 +56,10 @@ We know that is not true given the information on the premise, hence the relatio
 * Valid Accuracy: 0.024
  
 ## Result
-|Model|Valid Loss| Valid Accuracy|
-|:----|:----:|:------:|---------:|
+
+
+|Model|Valid_Loss|Valid_Accuracy| 
+|:----|:--------:|---------:|
 |XLM-RoBERTa|0.064|0.896|
 |LSTM|1.099|0.024|
 
