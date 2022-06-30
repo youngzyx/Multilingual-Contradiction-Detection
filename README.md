@@ -35,7 +35,7 @@ We know that is not true given the information on the premise, hence the relatio
 
 ## Result
 
-
+## Reference
 #### Tips
 **NLI** (Natural language inference) model is a model that attempts to infer the correct label based on the two sentences.
   
