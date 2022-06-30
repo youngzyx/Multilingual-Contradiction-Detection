@@ -60,6 +60,7 @@ We know that is not true given the information on the premise, hence the relatio
 |1|0.874|0.858|0.866|769|
 |2|0.908|0.921|0.914|833|
 
+<img src = 'img/loss.png' width = '800' >
 
 ### LSTM
 [Notebook](https://github.com/youngzyx/Multilingual-Contradiction-Detection/blob/main/lstm_final.ipynb)
