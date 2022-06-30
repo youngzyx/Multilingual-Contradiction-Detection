@@ -33,8 +33,14 @@ We know that is not true given the information on the premise, hence the relatio
 
 
 ## Models
-### BERT
+### [BERT](https://huggingface.co/docs/transformers/model_doc/bert#tfbertmodel)
+[Notebook](https://github.com/youngzyx/Multilingual-Contradiction-Detection/blob/main/nlp_tensorflow_BERT.ipynb)
  `bert-base-multilingual-cased`
+> This model uses a pre-trained model, multilingual BERT model from huggingface and incorporate the BERT transformer into a Keras Functional Model.
+ 
+* Valid Loss: 0.823
+* Valid Accuracy: 0.637
+* Scores<br/>
 
 
 
