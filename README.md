@@ -56,7 +56,7 @@ We know that is not true given the information on the premise, hence the relatio
 
 |Label|Precision|Recall|F-score|Support|
 |:----|:-------:|:-----:|:-----:|-----:|
-|0|0.904|0.306|.0905|822|
+|0|0.904|0.306|0.905|822|
 |1|0.874|0.858|0.866|769|
 |2|0.908|0.921|0.914|833|
 
